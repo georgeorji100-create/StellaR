@@ -1,0 +1,14 @@
+#BlueJ class context
+#Mon Sep 28 13:53:30 CDT 2026
+comment0.target=Gravity
+comment0.text=\r\n Chisom Ndy-Orji\r\n Quarter 1 Project\r\n Graviational Interactions\r\n
+comment1.target=Gravity()
+comment2.params=starName planetName
+comment2.target=Gravity(Star, Planet)
+comment3.params=starName planetName
+comment3.target=double calculateDistance(Star, Planet)
+comment4.params=starName planetName
+comment4.target=double calculateGravForce(Star, Planet)
+comment5.params=starName planetName
+comment5.target=void ShowData(Star, Planet)
+numComments=6

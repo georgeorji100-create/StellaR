@@ -1,0 +1,24 @@
+#BlueJ class context
+#Mon Sep 28 13:53:28 CDT 2026
+comment0.target=Planet
+comment0.text=\r\n Chisom Ndy-Orji\r\n Quarter 1 Project\r\n Planet Information\r\n
+comment1.target=Planet()
+comment10.params=newY
+comment10.target=void setY(double)
+comment11.params=newZ
+comment11.target=void setZ(double)
+comment12.params=newX newY newZ
+comment12.target=void changePosition(double, double, double)
+comment13.target=void printPosition()
+comment2.params=name mass initX initY initZ
+comment2.target=Planet(java.lang.String, double, double, double, double)
+comment3.target=java.lang.String getName()
+comment4.target=double getMass()
+comment5.target=double getX()
+comment6.target=double getY()
+comment7.target=double getZ()
+comment8.params=newName
+comment8.target=void setName(java.lang.String)
+comment9.params=newX
+comment9.target=void setX(double)
+numComments=14

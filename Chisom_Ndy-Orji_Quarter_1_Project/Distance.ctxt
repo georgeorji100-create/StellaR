@@ -1,0 +1,9 @@
+#BlueJ class context
+#Mon Sep 28 13:54:17 CDT 2026
+comment0.target=Distance
+comment0.text=\r\n Chisom Ndy-Orji\r\n Quarter 1 Project\r\n Distance Caluculator\r\n
+comment1.params=starName planetName
+comment1.target=void calculateDistance(Star, Planet)
+comment2.params=starName planetName
+comment2.target=void ShowDistance(Star, Planet)
+numComments=3

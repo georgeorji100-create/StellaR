@@ -1,0 +1,28 @@
+#BlueJ class context
+#Mon Sep 28 13:53:27 CDT 2026
+comment0.target=Star
+comment0.text=\r\n Chisom Ndy-Orji\r\n Quarter 1 Project\r\n Star Information\r\n
+comment1.target=Star()
+comment1.text=\r\n Constructor for objects of class BodyCoordinates\r\n
+comment10.target=double getZ()
+comment11.params=newName
+comment11.target=void setName(java.lang.String)
+comment12.params=newX
+comment12.target=void setX(double)
+comment13.params=newY
+comment13.target=void setY(double)
+comment14.params=newZ
+comment14.target=void setZ(double)
+comment15.params=newX newY newZ
+comment15.target=void changePosition(double, double, double)
+comment16.target=void printPosition()
+comment2.params=name mass initHydrogen initHelium initHeavyElements x y z
+comment2.target=Star(java.lang.String, double, double, double, double, double, double, double)
+comment3.target=java.lang.String getName()
+comment4.target=double getMass()
+comment5.target=double getHydrogenContent()
+comment6.target=double getHeliumContent()
+comment7.target=double getHeavyElementContent()
+comment8.target=double getX()
+comment9.target=double getY()
+numComments=17
